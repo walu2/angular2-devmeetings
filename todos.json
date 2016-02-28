@@ -1,5 +1,6 @@
-[{"title": "First product", "done": false, "price": 44.5 },
-  {"title": "Second product", "done": true, "price": 100 },
-  {"title": "Third product", "done": false, "price": 10.25},
-  {"title": "Third product", "done": false, "price": 100}
+[
+	{"title": "First product", "done": false, "price": 44.5 },
+  	{"title": "Second product", "done": true, "price": 100 },
+  	{"title": "Third product", "done": false, "price": 10.25},
+  	{"title": "Fourth product", "done": false, "price": 100},
 ]

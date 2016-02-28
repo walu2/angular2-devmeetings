@@ -21,4 +21,6 @@ If you have run `npm run serve` - don't worry! Just open `0.0.0.0:8000/runSpec.h
 If tsd fails due to exceeded rate limit, provide `GITHUB_TOKEN` environment variable with token to your github account. Token can be generated in you profile settings.
 
 Sometimes changes in source files aren't handled properly - you can just run `npm run build` to rebuild app.
+
 # angular2-devmeetings
+This is example app I managed to create seeing AngularJS 2 for a first time ;-)
